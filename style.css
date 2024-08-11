@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+
+.mainSection1, .mainSection2, .topSection {
+    width: 60%;
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid gray;
+}
+
+textarea{
+    width: 100%;
+    min-height: 100px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid green;
+    padding: 10px;
+}
